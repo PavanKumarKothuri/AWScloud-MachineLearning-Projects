@@ -1,0 +1,21 @@
+**Password Strength Checker** project:
+
+```plaintext
+streamlit==1.25.0
+numpy==1.26.0
+```
+
+### Explanation:
+1. **`streamlit`**: The primary framework to create and host the interactive web app.  
+2. **`numpy`**: Used for entropy calculations and mathematical operations.
+
+---
+
+### Installation Instructions:
+To install the dependencies listed in this file, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+This will install the exact versions of the libraries needed to run the project.
