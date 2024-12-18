@@ -1,0 +1,13 @@
+### requirements.txt for Phishing Email Detector
+
+```plaintext
+pandas
+scikit-learn
+nltk
+```
+
+This file specifies the essential Python libraries needed for the Phishing Email Detector project. To install them, use the following command:
+
+```bash
+pip install -r requirements.txt
+```
