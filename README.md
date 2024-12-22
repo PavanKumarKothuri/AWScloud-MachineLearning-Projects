@@ -31,7 +31,7 @@ Welcome to the **CyberSecurity & Machine Learning Projects** repository! This co
 ## ⭐ **How to Use This Repository**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/CyberSecurity-MachineLearning-Projects.git
+   git clone https://github.com/PavanKumarKothuri/CyberSecurity-MachineLearning-Projects.git
    cd CyberSecurity-MachineLearning-Projects
    ```  
 
