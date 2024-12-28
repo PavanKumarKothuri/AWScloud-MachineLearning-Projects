@@ -24,25 +24,20 @@ These projects reflect my journey from beginner to advanced levels.
 
 ## **🚀 Projects Overview**
 
-### 1. 🔒 **Password Strength Checker**  
+### 1. 🔒 [**Password Strength Checker**](https://github.com/PavanKumarKothuri/password-strength-checker)  
 - **Description:** A simple tool to evaluate password security based on entropy and character diversity.  
 - **Tech Stack:** Python, Streamlit.  
 - **Description:** Check the strength of entered passwords
 
-### 2. 📧 **Phishing Email Detection Using ML**  
-- **Description:** Detect phishing emails using **NLP** and **Machine Learning** algorithms.  
-- **Tech Stack:** Python, Scikit-learn, NLTK.  
-- **Description:** Detects phishing emails based on word frequency, domain analysis, and headers.  
-
-### 3. **☁️ S3 Bucket Permissions Checker**
-   - **Objective**: Automate the process of checking S3 bucket permissions for misconfigurations.  
-   - **Technologies**: Python, AWS SDK (Boto3)  
-   - **Description**: This tool verifies S3 bucket permissions, ensuring that they are properly secured according to AWS best practices.
-
-### 4. **🔍 Basic Network Scanner**
+### 2. [**🔍 Basic Network Scanner**]()
    - **Objective**: Develop a Python-based tool to scan open ports and identify vulnerabilities.  
    - **Technologies**: Python, Nmap  
-   - **Description**: This simple network scanner checks for open ports and reports potential security issues in the network.  
+   - **Description**: This simple network scanner checks for open ports and reports potential security issues in the network.
+
+### 3. [**☁️ S3 Bucket Permissions Checker**](https://github.com/PavanKumarKothuri/s3-permissions-checker)
+   - **Objective**: Automate the process of checking S3 bucket permissions for misconfigurations.  
+   - **Technologies**: Python, AWS SDK (Boto3)  
+   - **Description**: This tool verifies S3 bucket permissions, ensuring that they are properly secured according to AWS best practices.  
 
 ## **🔮 Future Plans**
 
