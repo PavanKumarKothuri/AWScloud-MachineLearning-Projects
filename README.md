@@ -1,6 +1,6 @@
-# **🔐 Cybersecurity + AWS Cloud ☁️ + Machine Learning Portfolio 🚀**
+# **AWS Cloud ☁️ + 🔐 Cybersecurity + Machine Learning Portfolio 🚀**
 
-Welcome to my portfolio showcasing **Cybersecurity**, **Cloud Computing (AWS)**, and **Machine Learning** projects! The objective of these projects is to demonstrate my growing proficiency in these fields with hands-on, real-world applications. 
+Welcome to my portfolio showcasing **Cloud Computing (AWS)**, **Cybersecurity** and **Machine Learning** projects! The objective of these projects is to demonstrate my growing proficiency in these fields with hands-on, real-world applications. 
 
 These projects reflect my journey from beginner to advanced levels.
 
@@ -8,8 +8,8 @@ These projects reflect my journey from beginner to advanced levels.
 
 ## **📅 Main Areas**
 
-  - **Cybersecurity**: Network Security, Cloud Security, Threat Detection  
   - **Cloud Computing (AWS)**: AWS services (S3, EC2, Lambda, etc.), Cloud Security  
+  - **Cybersecurity**: Network Security, Cloud Security, Threat Detection    
   - **Machine Learning**: Anomaly Detection, Supervised & Unsupervised Learning
 
 ## **🛠️ Technologies Used**
@@ -41,7 +41,7 @@ These projects reflect my journey from beginner to advanced levels.
 
 ## **🔮 Future Plans**
 
-This repository will be continually updated with new projects as I progress through the curriculum. I plan to expand my portfolio with more complex and advanced cybersecurity, cloud computing, and machine learning applications, demonstrating a broad range of skills.
+This repository will be continually updated with new projects as I progress through the curriculum. I plan to expand my portfolio with more complex and advanced cloud computing, cybersecurity and machine learning applications, demonstrating a broad range of skills.
 
 ---
 
@@ -51,4 +51,4 @@ This repository will be continually updated with new projects as I progress thro
 - **LinkedIn:** [Pavan on LinkedIn](https://www.linkedin.com/in/iamkpk/)
 Feel free to connect with me or open an issue or pull request on this repository for further discussions or contributions.
 
-✨ **Thank you for checking out my portfolio!** I'm excited to continue learning and building with each project, and look forward to contributing to the ever-evolving world of **Cybersecurity**, **Cloud Computing**, and **Machine Learning**!
+✨ **Thank you for checking out my portfolio!** I'm excited to continue learning and building with each project, and look forward to contributing to the ever-evolving world of **Cloud computing, Cybersecurity and Machine Learning**!
