@@ -45,10 +45,10 @@ This repository will be continually updated with new projects as I progress thro
 
 ---
 
-## **📫 Contact**
- 
-- **Email:** getkpk@gmail.com  
-- **LinkedIn:** [Pavan on LinkedIn](https://www.linkedin.com/in/iamkpk/)
-Feel free to connect with me or open an issue or pull request on this repository for further discussions or contributions.
+## 🤝 **Connect with Me**
+- PavanKumar Kothuri
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/iamkpk/)
+- 💻 [GitHub Profile](https://github.com/PavanKumarKothuri)  
+- ✉️ [Email:pavankumarkothuri9@gmail.com](mailto:pavankumarkothuri9@gmail.com)  
 
 ✨ **Thank you for checking out my portfolio!** I'm excited to continue learning and building with each project, and look forward to contributing to the ever-evolving world of **Cloud computing, Cybersecurity and Machine Learning**!
