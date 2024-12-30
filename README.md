@@ -29,7 +29,7 @@ These projects reflect my journey from beginner to advanced levels.
 - **Tech Stack:** Python, Streamlit.  
 - **Description:** Check the strength of entered passwords
 
-### 2. [**🔍 Basic Network Scanner**]()
+### 2. [**🔍 Basic Network Scanner**](https://github.com/PavanKumarKothuri/basic-network-scanner)
    - **Objective**: Develop a Python-based tool to scan open ports and identify vulnerabilities.  
    - **Technologies**: Python, Nmap  
    - **Description**: This simple network scanner checks for open ports and reports potential security issues in the network.
@@ -49,6 +49,6 @@ This repository will be continually updated with new projects as I progress thro
 - PavanKumar Kothuri
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/iamkpk/)
 - 💻 [GitHub Profile](https://github.com/PavanKumarKothuri)  
-- ✉️ [Email:pavankumarkothuri9@gmail.com](mailto:pavankumarkothuri9@gmail.com)  
+- ✉️ [Email: pavankumarkothuri9@gmail.com](mailto:pavankumarkothuri9@gmail.com)  
 
 ✨ **Thank you for checking out my portfolio!** I'm excited to continue learning and building with each project, and look forward to contributing to the ever-evolving world of **Cloud computing, Cybersecurity and Machine Learning**!
