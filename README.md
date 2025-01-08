@@ -39,6 +39,12 @@ These projects reflect my journey from beginner to advanced levels.
    - **Technologies**: Python, AWS SDK (Boto3)  
    - **Description**: This tool verifies S3 bucket permissions, ensuring that they are properly secured according to AWS best practices.  
 
+### 4.[**☁️ EC2 Web Application Deployment**](https://github.com/PavanKumarKothuri/AWS-ec2-webapp)  
+- **Objective**: Learn to deploy and host a web application on an AWS EC2 instance using a basic web server.  
+- **Technologies**: AWS EC2, Apache/Nginx, SSH, SCP  
+- **Description**: This project demonstrates the deployment of a static web application by launching an EC2 instance, installing a web server, and hosting an HTML file. It covers essential cloud computing skills, including instance management, security group configuration, and file transfers. Cloud infrastructure!
+
+
 ## **🔮 Future Plans**
 
 This repository will be continually updated with new projects as I progress through the curriculum. I plan to expand my portfolio with more complex and advanced cloud computing, cybersecurity and machine learning applications, demonstrating a broad range of skills.
@@ -46,7 +52,7 @@ This repository will be continually updated with new projects as I progress thro
 ---
 
 ## 🤝 **Connect with Me**
-- PavanKumar Kothuri
+- Built with ❤️ by PavanKumar Kothuri - Passionate about Cloud Computing and Web Development!
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/iamkpk/)
 - 💻 [GitHub Profile](https://github.com/PavanKumarKothuri)  
 - ✉️ [Email: pavankumarkothuri9@gmail.com](mailto:pavankumarkothuri9@gmail.com)  
