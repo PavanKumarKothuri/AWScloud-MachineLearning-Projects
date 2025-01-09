@@ -39,11 +39,19 @@ These projects reflect my journey from beginner to advanced levels.
    - **Technologies**: Python, AWS SDK (Boto3)  
    - **Description**: This tool verifies S3 bucket permissions, ensuring that they are properly secured according to AWS best practices.  
 
-### 4.[**☁️ EC2 Web Application Deployment**](https://github.com/PavanKumarKothuri/AWS-ec2-webapp)  
+### 4. [**☁️ EC2 Web Application Deployment**](https://github.com/PavanKumarKothuri/AWS-ec2-webapp)  
 - **Objective**: Learn to deploy and host a web application on an AWS EC2 instance using a basic web server.  
 - **Technologies**: AWS EC2, Apache/Nginx, SSH, SCP  
 - **Description**: This project demonstrates the deployment of a static web application by launching an EC2 instance, installing a web server, and hosting an HTML file. It covers essential cloud computing skills, including instance management, security group configuration, and file transfers. Cloud infrastructure!
 
+### 5. [**☁️ Serverless CRUD API with AWS Lambda**](https://github.com/PavanKumarKothuri/Serverless-CRUD-API-with-AWS-Lambda)  
+- **Objective**: Build a fully serverless backend application with CRUD operations using AWS services.  
+- **Technologies**: AWS Lambda, API Gateway, Python, (Optional: DynamoDB)  
+- **Description**: This project implements Create, Read, Update, and Delete operations through a serverless architecture. 
+Using AWS Lambda for computation and API Gateway for exposing RESTful endpoints, the application demonstrates how to design a scalable, 
+cost-effective backend without managing servers. It includes robust input validation, error handling, 
+and optional DynamoDB integration for persistent data storage. Ideal for modern web or mobile applications requiring 
+lightweight and reliable backend solutions.  
 
 ## **🔮 Future Plans**
 
