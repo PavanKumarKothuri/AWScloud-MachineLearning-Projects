@@ -53,6 +53,16 @@ cost-effective backend without managing servers. It includes robust input valida
 and optional DynamoDB integration for persistent data storage. Ideal for modern web or mobile applications requiring 
 lightweight and reliable backend solutions.  
 
+### 6. [**☁️ React App Deployment with S3 and CloudFront**](https://github.com/PavanKumarKothuri/React-AWS-S3-Cloudfront)  
+- **Objective**: Deploy a React application on AWS S3 and distribute it globally using CloudFront for optimal performance and scalability.  
+- **Technologies**: React, AWS S3, CloudFront, Route 53 (optional), Python  
+- **Description**: This project demonstrates the deployment of a static React web application to an S3 bucket, enabling static website hosting. The app is globally distributed via CloudFront to ensure low-latency access for users worldwide. Optional integration with Route 53 allows for custom domain and HTTPS setup. This guide covers end-to-end deployment, including build automation and infrastructure configuration, providing a cost-effective, scalable solution for hosting modern web applications.
+
+### 7. [**☁️ Simple File Backup System with AWS Lambda**](https://github.com/PavanKumarKothuri/FileBackup-AWS-S3-Lambda)  
+- **Objective**: Automate file backup processes between S3 buckets using AWS Lambda and S3 Event Notifications.  
+- **Technologies**: AWS Lambda, Amazon S3, Python (Boto3 SDK)  
+- **Description**: This project automates the backup of files from a source S3 bucket to a destination bucket whenever a new file is uploaded. Using serverless architecture with Lambda and S3 Event Triggers, it eliminates the need for manual backups. The implementation covers key cloud skills, including event-driven architecture, IAM role configuration, and cost-effective automation. Perfect for businesses needing reliable, scalable, and hands-free data backup solutions.
+
 ## **🔮 Future Plans**
 
 This repository will be continually updated with new projects as I progress through the curriculum. I plan to expand my portfolio with more complex and advanced cloud computing, cybersecurity and machine learning applications, demonstrating a broad range of skills.
@@ -60,9 +70,9 @@ This repository will be continually updated with new projects as I progress thro
 ---
 
 ## 🤝 **Connect with Me**
-- Built with ❤️ by PavanKumar Kothuri - Passionate about Cloud Computing and Web Development!
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/iamkpk/)
-- 💻 [GitHub Profile](https://github.com/PavanKumarKothuri)  
-- ✉️ [Email: pavankumarkothuri9@gmail.com](mailto:pavankumarkothuri9@gmail.com)  
+- Built with ❤️ by PavanKumar Kothuri - Passionate about Cloud Computing, CyberSecurity and Machine learning!
+- 🌐 [LinkedIn | https://www.linkedin.com/in/iamkpk/](https://www.linkedin.com/in/iamkpk/)
+- 💻 [GitHub | https://github.com/PavanKumarKothuri](https://github.com/PavanKumarKothuri)  
+- ✉️ [Email | pavankumarkothuri9@gmail.com](mailto:pavankumarkothuri9@gmail.com)
 
 ✨ **Thank you for checking out my portfolio!** I'm excited to continue learning and building with each project, and look forward to contributing to the ever-evolving world of **Cloud computing, Cybersecurity and Machine Learning**!
