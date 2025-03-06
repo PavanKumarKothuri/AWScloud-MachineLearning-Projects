@@ -1,6 +1,6 @@
-# **AWS Cloud ☁️ + 🔐 Cybersecurity + Machine Learning Portfolio 🚀**
+# **AWS Cloud ☁️ + Machine Learning Portfolio 🚀**
 
-Welcome to my portfolio showcasing **Cloud Computing (AWS)**, **Cybersecurity** and **Machine Learning** projects! The objective of these projects is to demonstrate my growing proficiency in these fields with hands-on, real-world applications. 
+Welcome to my portfolio showcasing **AWS Cloud** and **Machine Learning** projects! The objective of these projects is to demonstrate my growing proficiency in these fields with hands-on, real-world applications. 
 
 These projects reflect my journey from beginner to advanced levels.
 
@@ -65,14 +65,14 @@ lightweight and reliable backend solutions.
 
 ## **🔮 Future Plans**
 
-This repository will be continually updated with new projects as I progress through the curriculum. I plan to expand my portfolio with more complex and advanced cloud computing, cybersecurity and machine learning applications, demonstrating a broad range of skills.
+This repository will be continually updated with new projects as I progress through the curriculum. I plan to expand my portfolio with more complex and advanced Cloud computing and Machine learning applications, demonstrating a broad range of skills.
 
 ---
 
 ## 🤝 **Connect with Me**
-- Built with ❤️ by PavanKumar Kothuri - Passionate about Cloud Computing, CyberSecurity and Machine learning!
+- Built with ❤️ by PavanKumar Kothuri - Passionate about Cloud Computing and Machine learning!
 - 🌐 [LinkedIn | https://www.linkedin.com/in/iamkpk/](https://www.linkedin.com/in/iamkpk/)
 - 💻 [GitHub | https://github.com/PavanKumarKothuri](https://github.com/PavanKumarKothuri)  
 - ✉️ [Email | pavankumarkothuri9@gmail.com](mailto:pavankumarkothuri9@gmail.com)
 
-✨ **Thank you for checking out my portfolio!** I'm excited to continue learning and building with each project, and look forward to contributing to the ever-evolving world of **Cloud computing, Cybersecurity and Machine Learning**!
+✨ **Thank you for checking out my portfolio!** I'm excited to continue learning and building with each project, and look forward to contributing to the ever-evolving world of **Cloud computing and Machine Learning**!
